@@ -17,4 +17,5 @@ Are electric bikes used for longer trips than classic bikes?
 Are electric bikes used to travel further distances than classic bikes?
 Do members have a different split of electric vs. classic bikes than casual riders?
 How do member type, bike type, and ride distance impact ride duration?
+
 Team Members: Tegveer Ghura, Ahmed Khair, Anthony Moubarak, Raghav Sharma, Karan Uppal (MS in Data Science 2024)
